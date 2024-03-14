@@ -1,0 +1,27 @@
+input{
+    width: 65px;
+    height: 60px;
+    font-size: 23px;
+    margin: 5px;
+    background-color: rgba(215, 215, 215, 0.953);
+}
+.t1
+{
+    width: 95%;
+    text-align: right;
+}
+table
+{
+    border:2px inset #222;
+    background-color: black;
+    border-radius: 5%;
+    padding: 10px;
+}
+td,th{
+    padding: auto;
+    border-radius: 5%;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+}
